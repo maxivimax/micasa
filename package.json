@@ -1,13 +1,11 @@
 {
-  "name": "evobot",
-  "version": "0.10.0",
-  "description": "Discord music bot built with discord.js",
+  "name": "Macasa",
+  "version": "1.0",
+  "description": "Discord music bot, thanks EvoBot",
   "main": "index.js",
-  "author": "Erit Islami <eritislami@gmail.com>",
+  "author": "Andreev Slava <maxivimax@icloud.com>",
   "private": true,
-  "homepage": "https://github.com/eritislami/evobot",
-  "repository": "github:eritislami/evobot",
-  "bugs": "https://github.com/eritislami/evobot/issues",
+  "homepage": "https://maxivimax.ru.com/macasa",
   "engines": {
     "node": ">=14.0.0"
   },
